@@ -11,6 +11,7 @@ namespace DeleteDllFile
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!!");
+            Console.WriteLine("Welcome World!!");
             Console.ReadLine();
         }
     }
